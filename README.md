@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Agenda do Barbeiro</title>
+	<title>Agenda </title>
 </head>
 <body>
-	<h1>Agenda do Barbeiro</h1>
+	<h1>Agenda </h1>
 	<h2>Agenda para o dia</h2>
 	<table>
 		<tr>
